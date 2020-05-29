@@ -5,7 +5,7 @@ Vue.use(httpVueLoader);
 
 new Vue({
   components: {
-    app: "url:app.vue",
+    app: "url:/src/app.vue",
   },
   template: "<app />",
 }).$mount("#app");

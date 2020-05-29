@@ -7,7 +7,7 @@
 <script>
 module.exports = {
   components: {
-    "hello-world": "url:components/hello-world.vue"
+    "hello-world": "url:/src/components/hello-world.vue"
   }
 };
 </script>
